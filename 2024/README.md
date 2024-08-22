@@ -60,6 +60,7 @@ However, there are several areas for future enhancements:
 - **Other Ambitious Pursuits**: Consider additional ambitious goals such as exploring machine learning techniques for predicting required updates
   by training a model on historical data of language feature updates.
   The model could analyze patterns in how new language features have impacted checks in the past.
+
 ---
 
 ### Code Contributions
@@ -67,7 +68,9 @@ However, there are several areas for future enhancements:
 - All PRs/Issues related to the project can be found in [GitHub project board](https://github.com/orgs/checkstyle/projects/6).
 - All PRs related to updating existing checks can be found [here](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+project%3Acheckstyle%2F6+NOT+%22input%22+NOT+%22new+check%22+in%3Atitle+).
 - All PRs related to new checks can be found [here](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+project%3Acheckstyle%2F6+%22new+check%22+in%3Atitle).
-- All PRs related to extending inputs and tests can be found [here](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+project%3Acheckstyle%2F6+%22new+input%22+in%3Atitle+).
+- All PRs related to extending test cases can be found [here](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+project%3Acheckstyle%2F6+%22new+input%22+in%3Atitle+).
+- My work on this project is part of Checkstyle 10.18.0 release.
+  The release notes can be found [here](https://checkstyle.org/releasenotes.html#Release_10.18.0).
 - All my contributions to checkstyle can be found [here](https://github.com/checkstyle/checkstyle/pulls/mahfouz72).
 
 ---
@@ -86,6 +89,9 @@ However, there are several areas for future enhancements:
 - **Software Testing**: Checkstyle use JaCoCo for code coverage metrics and PIT for mutation testing.
   With Checkstyle's strict policy of requiring 100% code coverage and zero surviving mutations,
   I’ve learned the critical value of writing effective tests.
+- **Participating in Design Reviews**: I participated in design reviews focused on the development of new static code analysis
+  checks for Checkstyle. Collaborated with mentors to evaluate the design of these checks and 
+  deciding on the best approaches for implementation.
 
 
 #### Non-Technical Skills:
